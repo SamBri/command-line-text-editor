@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1702031154 source:c:\users\user\documents\codeblocks\clet\src\file.cpp
+	"../include/TextFile.h"
+
+1703023628 c:\users\user\documents\codeblocks\clet\include\textfile.h
+	<string>
+	<vector>
+	"Content.h"
+
+1703022817 c:\users\user\documents\codeblocks\clet\include\content.h
+	<string>
+
+1702048614 source:c:\users\user\documents\codeblocks\clet\src\content.cpp
+	"Content.h"
+
+1702048730 source:c:\users\user\documents\codeblocks\clet\src\test.cpp
+	"Test.h"
+
+1702048730 c:\users\user\documents\codeblocks\clet\include\test.h
+
+1702031744 source:c:\users\user\documents\codeblocks\clet\src\texteditorfile.cpp
+	"TextEditorFile.h"
+
+1702031189 c:\users\user\documents\codeblocks\clet\include\texteditorfile.h
+	<string>
+
+1702032039 source:c:\users\user\documents\codeblocks\clet\src\texteditoroperation.cpp
+	"TextEditorOperation.h"
+	"TextFile.h"
+
+1702032066 c:\users\user\documents\codeblocks\clet\include\texteditoroperation.h
+	<string>
+	<iostream>
+	"TextFile.h"
+
+1703031271 source:c:\users\user\documents\codeblocks\clet\src\texteditorservice.cpp
+	"TextEditorService.h"
+
+1703031045 c:\users\user\documents\codeblocks\clet\include\texteditorservice.h
+	"TextFile.h"
+	<fstream>
+	<iostream>
+
+1703023633 source:c:\users\user\documents\codeblocks\clet\src\textfile.cpp
+	"TextFile.h"
+
+1703039729 source:c:\users\user\documents\codeblocks\clet\main.cpp
+	<iostream>
+	"TextFile.h"
+	"TextEditorService.h"
+	<stdlib.h>
+	<sstream>
+
+1702051038 source:c:\users\user\documents\codeblocks\clet\src\cmdservice.cpp
+	"CmdService.h"
+
+1702050622 c:\users\user\documents\codeblocks\clet\include\cmdservice.h
+	<iostream>
+	<fstream>
+
