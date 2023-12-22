@@ -762,7 +762,7 @@ TextFile* TextEditorService::scrollFile(int lineNumber,TextFile* txtFilePtr, boo
         // at line 50, prompt user to scroll.
         if(i % 50 == 0)
         {
-            std::cout << "---------------- SCROLL -----------------------------"<<std::endl;
+            std::cout << "---------------- SCROLL (Y) -----------------------------"<<std::endl;
             std::cin >> scroll;
 
         }
