@@ -7,16 +7,7 @@
 
 using namespace std;
 
-/**
-Project Title : Basic Command Line Editor
-Date :
-Author :
-Summary:
-This a simple, user-friendly text editor that allows users to
-create, edit,
-save and read plain text files.
-**/
-
+//Samuel
 
 void showManual()
 {
