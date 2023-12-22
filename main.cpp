@@ -5,9 +5,11 @@
 #include <sstream>
 
 
-using namespace std;
 
 //Samuel
+//in C++
+using namespace std;
+
 
 void showManual()
 {
